@@ -5,6 +5,7 @@ end
 
 # Define your WIN_COMBINATIONS constant
 WIN_COMBINATIONS = [
+<<<<<<< HEAD
   [0,1,2],
   [3,4,5],
   [6,7,8],
@@ -71,3 +72,14 @@ WIN_COMBINATIONS = [
       return "O"
   end
 end
+=======
+  [0,1,2]
+  [3,4,5]
+  [6,7,8]
+  [0,3,6]
+  [1,4,7]
+  [2,5,8]
+  [0,4,8]
+  [2,4,6]
+  ]
+>>>>>>> 8ae668c3565c752ae2e2d590ea3af686baf76793
